@@ -2,7 +2,7 @@
 # Hello World !! Moi c'est Seguin Clément ! 👋
 ## Développeur Web fullstack
 
-Paasionné par les nouvelles tehnologies, le monde du web et tout ce qui se rapproche de près où de loin à l'informatique 
+Passionné par les nouvelles tehnologies, le monde du web et tout ce qui se rapproche de près où de loin à l'informatique 
 je suis désormais développeur fullstack spécialisé sur le CMS WordPress et je suis à l'écoute de toutes les opportunités d'emploi.
 
 Les technologies que je connait sont : 
