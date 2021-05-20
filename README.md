@@ -2,23 +2,19 @@
 # Hello World !! Moi c'est Seguin Clément ! 👋
 ## Développeur Web fullstack
 
-Passionné par les nouvelles tehnologies, le monde du web et tout ce qui se rapproche de près où de loin à l'informatique 
-je suis désormais développeur fullstack spécialisé sur le CMS WordPress et je suis à l'écoute de toutes les opportunités d'emploi.
+Passionné par les nouvelles tehnologies, le monde du web et tout ce qui se rapproche de près où de loin à l'informatique.
+Je suis désormais développeur Web fullstack et je suis à l'écoute de toutes les opportunités d'emploi (apprentissage en ce moment car étudiant à la 3w academy).
 
 Les technologies que je connait sont : 
 
-- HTML, CSS, Javascript, PHP, SASS, Webpack, NPM, Wordpress.
+- HTML, CSS, Javascript, PHP, SASS, Webpack, NPM, Wordpress, React.js, Node.js.
 - Programmation Orientée Objet, le modèle MVC.
 
-Je travail en ce moment sur un site pour une association qui aura pour but de lister toutes les associations de la communauté de Vichy (un Annuaire en ligne).
-
-Je suis également à la recherche d'inspiration et de design afin de construire mon site perso.
-
-Et en parallèle je me forme sur d'autres Langages, principalement Java.
+Je me forme sur d'autres Langages, frameworks principalement React et Node en ce moment sur mon temps libre.
 
 ### Contact
 
-- Vous pouvez me contacter par mail : clement.seguin63@gmail.com.
+- Vous pouvez me contacter par mail : clement.seguin63@gmail.com où clement.seguin@3wa.io
 - Ou par téléphone au 06.60.03.40.72.
 
 
