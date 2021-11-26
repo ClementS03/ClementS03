@@ -7,7 +7,7 @@ Je suis désormais développeur Web fullstack et je suis à l'écoute de toutes 
 
 Les technologies que je connait sont : 
 
-- HTML, CSS, Javascript, Wordpress, React.js, Node.js.
+- HTML, CSS, Javascript, React.js, Node.js.
 
 Je me forme sur d'autres Langages, frameworks principalement React et Node en ce moment sur mon temps libre.
 
